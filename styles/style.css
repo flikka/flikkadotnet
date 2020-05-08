@@ -9,7 +9,7 @@
 }
 
 .header {
-  background: var(--white);
+  background: var(--blue);
   grid-area: header;
   display: grid;
   align-items: center;
