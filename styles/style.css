@@ -40,7 +40,7 @@
 }
 
 .sidebar .current {
-  color: var(--moss-green);
+  color: var(--blue);
   font-weight:bold;
 }
 

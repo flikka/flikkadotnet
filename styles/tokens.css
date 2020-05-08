@@ -1,46 +1,11 @@
-/* Simplified design tokens based on the Equinor Design System */
-
 :root {
   /* colours */
   --white: #fff;
-  --moss-green: #007079;
-  --moss-green-medium: #73b0b5;
-  --moss-green-light: #deedee;  
-  --energy-red: #eb0037;
-  --energy-red-medium: #f47391;
-  --energy-red-light: #fcdee5;
-  --gray-light: #f7f7f7;
-  --gray-medium-light: #dcdcdc;
-  --gray-medium: #d7d7d7;
-  --gray-dark: #6f6f6f;
-  --black: #333;
+  --blue: cornflowerblue;
 
-  /* defaults */
-  --default-border-color: var(--gray-medium);
-  --default-background: var(--white);
 
-  /* sidebar */
-  --sidebar-link: var(--grey-dark);
-  --sidebar-link-hover: var(--moss-green-light);
-
-  /* tabs */
-  --tabs-color: var(--gray-dark);
-  --tabs-border-color: var(--gray-medium-light);
-  --tabs-background-hover: var(--moss-green-light);
-  --tabs-active-color: var(--moss-green);
-
-  /* table */
-  --table-header-background: var(--gray-light);
-  --table-border-color: var(--gray-medium-light);
-
-  /* button */
-  --button-color: var(--moss-green);
-  --button-background-hover: var(--moss-green-light);
-
-  /* misc */
-  --header-background: var(--gray-light);
-
-  /* typography */
+  --sidebar-link: #6f6f6f;;
+  --sidebar-link-hover:#deedee;
   --header-xxlarge: 2rem; /* 32px */
   --header-xlarge: 1.75rem; /* 28px */
   --header-large: 1.5rem; /* 24px */
