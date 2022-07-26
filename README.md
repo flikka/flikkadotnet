@@ -1,4 +1,4 @@
-flikkadotnet
+Flikka Datakunst
 ============
 
-Flikka´s personal webpage
+Flikka datakunst webpage
